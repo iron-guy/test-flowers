@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+body {
+    font-family: "Roboto Condensed", sans-serif;
+}
+.nav a {
+    text-decoration: none;
+    color: #54657a;
+}
+.a1 {
+    font-size: 60px;
+    margin-left: 200px;
+}
+.nav-link {
+    float: right;
+    margin-top: 20px;
+    margin-right: 200px;
+    font-size: 20px;
+}
+.nav-link a {
+    margin: 20px;
+}
+.nav {
+    border-bottom: 5px solid #fcfcfc;
+}
+.main {
+    margin-top: 150px;
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.main img {
+    width: 500px;
+    border-radius: 20px;
+    display: inline-block;
+}
+.main h1 {
+    color: #22486a;
+    margin-bottom: 40px;
+    font-size: 50px;
+}
+.main p {
+    color: gray;
+    margin-bottom: 40px;
+}
+.button1 {
+    background-color: #074da5;
+    color: white;
+    border-radius: 20px;
+    padding: 10px;
+    display: inline-block;
+    width: 150px;
+    text-align: center;
+}
+.button2 {
+    background-color: #eaeaec;
+    color: #727b83;
+    border-radius: 20px;
+    padding: 10px;
+    display: inline-block;
+    width: 150px;
+    text-align: center;
+}
+.main a {
+    text-decoration: none;
+}
+.main2 {
+    display: inline-block;
+    vertical-align: top;
+    padding-top: 100px;
+    margin-right: 50px;
+}
